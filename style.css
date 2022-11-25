@@ -8,8 +8,8 @@ a{
     color: black;
 }
 
-*{
-scroll-behavior: smooth;
+html{
+    scroll-behavior: smooth;
 }
 
 body{
