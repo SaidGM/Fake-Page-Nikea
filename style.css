@@ -491,7 +491,27 @@ footer h5{
 
     .cartas{
         height: 550px;
+        width: 100%;
     }
+
+    .cartas .baño{
+        width: 100%;
+    }
+
+    .cartas .cocina{
+        width: 100%;
+    }
+
+
+    .cartas .dormitorio{
+        width: 100%;
+    }
+
+
+    .cartas .sala{
+        width: 100%;
+    }
+
 
     .cartas h1{
         font-size: 1.9em;
